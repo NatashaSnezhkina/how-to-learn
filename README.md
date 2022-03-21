@@ -1,13 +1,13 @@
 
-# Научиться учиться 
+# How to learn 
 
 ## Содержание
-* [General information](#General information)
+* [General](#General)
 * [Technologies](#Technologies)
 * [Settings](#Settings)
 * [Link](#Link)
 
-## General information
+## General
 Project shares effective ways of learning and gives links to extra sources.  
 	
 ## Technologies
