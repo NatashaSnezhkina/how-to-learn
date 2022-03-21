@@ -1,7 +1,7 @@
 
 # How to learn 
 
-## Содержание
+## Content
 * [General](#General)
 * [Technologies](#Technologies)
 * [Settings](#Settings)
