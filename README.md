@@ -2,30 +2,24 @@
 # Научиться учиться 
 
 ## Содержание
-* [Общая информация](#Общая-информация)
-* [Технологии](#Технологии)
-* [Настройки](#Настройки)
-* [Планы](#Планы)
-* [Ссылка](#Ссылка)
+* [General information](#General information)
+* [Technologies](#Technologies)
+* [Settings](#Settings)
+* [Link](#Link)
 
-## Общая информация
-Проект рассказывает про эффективные способы обучения и дает ссылки на дополнительные ресурсы.  
+## General information
+Project shares effective ways of learning and gives links to extra sources.  
 	
-## Технологии
-* Для создания сетки использовалась flexbox верстка.
-* Использованы разные виды позиционирования.
+## Technologies
+* Flexbox layout.
 * Pixel perfect
-* Чтобы сделать сайт "живым" использовались анимации, трансформации и API.
-* Организация файлов выполнена по БЭМ Nested.
+* Animations, transformations and APIs were used to make the site "alive".
+* BEM Nested.
 
-## Настройки
+## Settings
 * HTML 5
 * CSS3
 
-## Планы
-* Создать форму для обратной связи. 
-* Проверить код на кроссбраузерность.
-
-## Ссылка
+## Link
 https://natashasnezhkina.github.io/how-to-learn/
   
